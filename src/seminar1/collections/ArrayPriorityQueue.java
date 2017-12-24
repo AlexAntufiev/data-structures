@@ -1,4 +1,4 @@
-package structures_and_algorythms.collections;
+package seminar1.collections;
 
 import java.lang.reflect.Array;
 import java.util.Comparator;
